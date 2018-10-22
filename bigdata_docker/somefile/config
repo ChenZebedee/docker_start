@@ -1,0 +1,4 @@
+StrictHostKeyChecking no
+# 每次都是新的 know host 文件
+UserKnownHostsFile /dev/null
+

@@ -1,0 +1,11 @@
+127.0.0.1 localhost.localdomain localhost
+192.168.5.2 zookeeper1
+192.168.5.3 zookeeper2
+192.168.5.4 zookeeper3
+192.168.5.20 resourcemanager1
+192.168.5.21 resourcemanager2
+192.168.5.40 namenode1
+192.168.5.41 namenode2
+192.168.5.60 datanode1
+192.168.5.61 datanode2
+192.168.5.62 datanode3
